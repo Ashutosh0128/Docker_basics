@@ -7,7 +7,7 @@ app.get("/", (req,res) => {
             {
                 id :1,
                 employeeName : "Ash",
-                employeeSalary : 70000
+                employeeSalary : 90000
             },
             {
                 id :2,
