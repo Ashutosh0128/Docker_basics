@@ -19,6 +19,11 @@ app.get("/", (req,res) => {
                 employeeName : "Jayu",
                 employeeSalary : 50000
             },
+            {
+                id :4,
+                employeeName : "Raj",
+                employeeSalary : 80000
+            },
         
         ]
     )
