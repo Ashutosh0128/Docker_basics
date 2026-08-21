@@ -6,7 +6,7 @@ app.get("/", (req,res) => {
         [
             {
                 id :1,
-                employeeName : "Ash",
+                employeeName : "Ashutosh",
                 employeeSalary : 90000
             },
             {
